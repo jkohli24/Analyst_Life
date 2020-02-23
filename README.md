@@ -7,4 +7,4 @@
 #### Python For Data Analytics (Data Cleaning and Exploration) : https://github.com/jkohli24/Python-for-Data-Analytics
 #### Marketing Case Study (Company Analysis) :https://github.com/jkohli24/Marketing-Case-Studies-
 #### R Programming Projects (Data Visualization & Recommender Systems ):https://github.com/jkohli24/R-Programming-Projects
-#### Microeconomics Case Studies (Monopoly and Competition )  https://github.com/jkohli24/Econometrics---Case-Studies-
+#### Microeconomics Case Studies (Monopoly and Price Discrimination )  https://github.com/jkohli24/Econometrics---Case-Studies-
