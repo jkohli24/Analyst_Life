@@ -3,6 +3,7 @@
 
 ## My Learnings : 
 #### Marketing Analytics (Data Science in Marketing) : https://github.com/jkohli24/Marketing-Analytics-Projects
+#### Regression Model Practice With Visualizations :  https://github.com/jkohli24/SelfLearning---ML-Practice-A-Z-udemy-
 #### Tableau Storyboarding (Sales Analysis) : https://github.com/jkohli24/Tableau-Selflearning-  
 #### Python For Data Analytics (Data Cleaning and Exploration) : https://github.com/jkohli24/Python-for-Data-Analytics
 #### Marketing Case Study (Company Analysis) :https://github.com/jkohli24/Marketing-Case-Studies-
