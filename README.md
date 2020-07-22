@@ -1,5 +1,4 @@
-![alt text](https://github.com/jkohli24/Analyst_Life/image.jpg?raw=true
-
+![alt text](https://github.com/jkohli24/Analyst_Life/blob/master/Konli_Jaskaran1-01.jpeg
 
 
 # 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞 :
