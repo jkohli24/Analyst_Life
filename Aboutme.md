@@ -5,8 +5,11 @@
 
 𝗦𝗞𝗜𝗟𝗟𝗦:
 •𝐁𝐮𝐬𝐢𝐧𝐞𝐬𝐬 𝐀𝐧𝐚𝐥𝐲𝐭𝐢𝐜𝐬: Machine Learning, Regression Analysis, Marketing Analytics, Feature Engineering
+
 •𝐋𝐢𝐛𝐫𝐚𝐫𝐢𝐞𝐬 𝐚𝐧𝐝 𝐅𝐫𝐚𝐦𝐞𝐰𝐨𝐫𝐤𝐬: Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn, NLTK.
+
 •𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐧𝐠 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬: Python, R, SQL
+
 •𝐁𝐮𝐬𝐢𝐧𝐞𝐬𝐬 𝐈𝐧𝐭𝐞𝐥𝐥𝐢𝐠𝐞𝐧𝐜𝐞 𝐓𝐨𝐨𝐥𝐬: Power BI, Tableau, Excel, PowerPoint
 
 ## My Projects :
