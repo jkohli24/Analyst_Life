@@ -29,6 +29,6 @@
 
 <object data="https://github.com/jkohli24/Analyst_Life/blob/master/Jaskaran%20Kohli%20_%20Resume%20.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="https://github.com/jkohli24/Analyst_Life/blob/master/Jaskaran%20Kohli%20_%20Resume%20.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/jkohli24/Analyst_Life/blob/master/Jaskaran%20Kohli%20_%20Resume%20.pdf">Download PDF</a>.</p>
     </embed>
 </object>
