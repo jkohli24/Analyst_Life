@@ -27,11 +27,7 @@
 #### 𝗥 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀 (𝗗𝗮𝘁𝗮 𝗩𝗶𝘀𝘂𝗮𝗹𝗶𝘇𝗮𝘁𝗶𝗼𝗻 & 𝗥𝗲𝗰𝗼𝗺𝗺𝗲𝗻𝗱𝗲𝗿 𝗦𝘆𝘀𝘁𝗲𝗺𝘀):https://github.com/jkohli24/R-Programming-Projects
 #### 𝗠𝗶𝗰𝗿𝗼𝗲𝗰𝗼𝗻𝗼𝗺𝗶𝗰𝘀 𝗖𝗮𝘀𝗲 𝗦𝘁𝘂𝗱𝗶𝗲𝘀 (𝗠𝗼𝗻𝗼𝗽𝗼𝗹𝘆 𝗮𝗻𝗱 𝗣𝗿𝗶𝗰𝗲 𝗗𝗶𝘀𝗰𝗿𝗶𝗺𝗶𝗻𝗮𝘁𝗶𝗼𝗻):https://github.com/jkohli24/Econometrics---Case-Studies-
 
-<object data="https://github.com/jkohli24/Analyst_Life/blob/master/Jaskaran%20Kohli%20_%20Resume%20.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="https://github.com/jkohli24/Analyst_Life/blob/master/Jaskaran%20Kohli%20_%20Resume%20.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/jkohli24/Analyst_Life/blob/master/Jaskaran%20Kohli%20_%20Resume%20.pdf">Download Resume</a>.</p>
-    </embed>
-</object>
+
 
 
 ![Jaskaran Kohli _ Resume7-22-2020-page-001](https://user-images.githubusercontent.com/61367363/88241592-66ec7580-cc3f-11ea-955d-33e0c9e987df.jpg)
