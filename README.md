@@ -29,6 +29,17 @@
 
 <object data="https://github.com/jkohli24/Analyst_Life/blob/master/Jaskaran%20Kohli%20_%20Resume%20.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="https://github.com/jkohli24/Analyst_Life/blob/master/Jaskaran%20Kohli%20_%20Resume%20.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/jkohli24/Analyst_Life/blob/master/Jaskaran%20Kohli%20_%20Resume%20.pdf">Download PDF</a>.</p>
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/jkohli24/Analyst_Life/blob/master/Jaskaran%20Kohli%20_%20Resume%20.pdf">Download Resume</a>.</p>
+    </embed>
+</object>
+
+
+![Jaskaran Kohli _ Resume7-22-2020-page-001](https://user-images.githubusercontent.com/61367363/88241592-66ec7580-cc3f-11ea-955d-33e0c9e987df.jpg)
+
+
+
+<object data="https://github.com/jkohli24/Analyst_Life/blob/master/Jaskaran%20Kohli%20_%20Resume%20.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://github.com/jkohli24/Analyst_Life/blob/master/Jaskaran%20Kohli%20_%20Resume%20.pdf">
+        <p><a href="https://github.com/jkohli24/Analyst_Life/blob/master/Jaskaran%20Kohli%20_%20Resume%20.pdf">Download Resume</a>.</p>
     </embed>
 </object>
