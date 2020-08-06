@@ -36,9 +36,9 @@
 
 
 
-<object data="https://github.com/jkohli24/Analyst_Life/blob/master/Jaskaran%20Kohli%20_%20Resume.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="https://github.com/jkohli24/Analyst_Life/blob/master/Jaskaran%20Kohli%20_%20Resume.pdf">
-        <p><a href="https://github.com/jkohli24/Analyst_Life/blob/master/Jaskaran%20Kohli%20_%20Resume.pdf">Download Resume</a></p>
+<object data="https://github.com/jkohli24/Analyst_Life/blob/master/Jaskaran%20Singh%20Kohli%20_%20Resume%20%207-31-2020.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://github.com/jkohli24/Analyst_Life/blob/master/Jaskaran%20Singh%20Kohli%20_%20Resume%20%207-31-2020.pdf">
+        <p><a href="https://github.com/jkohli24/Analyst_Life/blob/master/Jaskaran%20Singh%20Kohli%20_%20Resume%20%207-31-2020.pdf">Download Resume</a></p>
     </embed>
 </object>
 
