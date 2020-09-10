@@ -2,7 +2,7 @@
  
 <h1 align="center" >
   <br>
-<img src="https://user-images.githubusercontent.com/61367363/88243742-44aa2600-cc46-11ea-9645-eb646389c52b.jpeg">
+<img width="500px" src="https://user-images.githubusercontent.com/61367363/92796525-1c959400-f366-11ea-936d-bba8a576fa21.jpeg">
   <br>
   <br>
 </h1>
