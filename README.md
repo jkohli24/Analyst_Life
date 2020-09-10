@@ -1,8 +1,8 @@
-### Hi there, I'm Jaskaran 
+## Hi there, I'm Jaskaran 
  
  
-![Konli_Jaskaran1-01](https://user-images.githubusercontent.com/61367363/88243742-44aa2600-cc46-11ea-9645-eb646389c52b.jpeg)
-
+<img src="https://user-images.githubusercontent.com/61367363/88243742-44aa2600-cc46-11ea-9645-eb646389c52b.jpeg">
+<img align="center" src="https://user-images.githubusercontent.com/61367363/88243742-44aa2600-cc46-11ea-9645-eb646389c52b.jpeg" />
 
 
 
