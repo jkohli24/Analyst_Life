@@ -1,8 +1,12 @@
 ## Hi there, I'm Jaskaran 
  
- 
+ <h1 align="center">
+  <br>
 <img src="https://user-images.githubusercontent.com/61367363/88243742-44aa2600-cc46-11ea-9645-eb646389c52b.jpeg">
-<img align="center" src="https://user-images.githubusercontent.com/61367363/88243742-44aa2600-cc46-11ea-9645-eb646389c52b.jpeg" />
+
+  <br>
+  <br>
+</h1>
 
 
 
@@ -13,10 +17,10 @@
 [github]: https://github.com/jkohli24
 
 
-[<img align="left" alt="Jaskaran Kohli | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Jaskaran Kohli | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
-[<img align="left" alt="Jaskaran Kohli | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
-[<img align="left" alt="Jaskaran Kohli | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="center" alt="Jaskaran Kohli | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="center" alt="Jaskaran Kohli | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
+[<img align="center" alt="Jaskaran Kohli | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
+[<img align="center" alt="Jaskaran Kohli | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
 #
