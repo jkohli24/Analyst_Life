@@ -1,7 +1,7 @@
 <h1 align="center" style="background-color:DodgerBlue;"" >Hi there, I'm Jaskaran </h1>
 
 <h1 align="center" >
-  <br>
+ 
 <img width="500px" src="https://user-images.githubusercontent.com/61367363/92796525-1c959400-f366-11ea-936d-bba8a576fa21.jpeg">
   <br>
   
