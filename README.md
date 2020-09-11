@@ -7,20 +7,8 @@
            
 <img width=550px src="https://user-images.githubusercontent.com/61367363/92796525-1c959400-f366-11ea-936d-bba8a576fa21.jpeg"> 
 <img width=550px src="https://github-readme-stats.vercel.app/api?username=jkohli24&show_icons=true&theme=synthwave">
-</h1>
-                                                                                                                              
-<p align="center">
-  <i>Let's connect and chat! Open to anything under the sun.</i>
+</h1>                                                                                                                           
 
-[<img align="center" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="center" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
-[<img align="center" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
-
-
-[linkedin]: https://www.linkedin.com/in/jaskaran-kohli24/
-[gmail]: mailto:jaskaransinghkolhi@gmail.com
-[github]: https://github.com/jkohli24
-</p>
 𝗠𝘆 𝗸𝗲𝗲𝗻 𝗶𝗻𝘁𝗲𝗿𝗲𝘀𝘁 𝗶𝗻 𝘁𝗵𝗲 𝘀𝘂𝗯𝗷𝗲𝗰𝘁𝘀 𝗼𝗳 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗦𝗰𝗶𝗲𝗻𝗰𝗲, 𝗮𝘀 𝘄𝗲𝗹𝗹 𝗮𝘀 𝗕𝘂𝘀𝗶𝗻𝗲𝘀𝘀 𝗜𝗻𝘁𝗲𝗹𝗹𝗶𝗴𝗲𝗻𝗰𝗲, 𝗵𝗮𝘀 𝗲𝗻𝗵𝗮𝗻𝗰𝗲𝗱 𝗺𝘆 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝗮𝗹 𝗮𝗻𝗱 𝗤𝘂𝗮𝗻𝘁𝗶𝘁𝗮𝘁𝗶𝘃𝗲 𝗦𝗸𝗶𝗹𝗹𝘀, 𝘄𝗵𝗶𝗹𝗲 𝗮 𝘁𝗼𝘂𝗰𝗵 𝗼𝗳 𝗶𝗻𝗴𝗲𝗻𝘂𝗶𝘁𝘆 𝗵𝗮𝘀 𝗮𝗹𝘄𝗮𝘆𝘀 𝗸𝗲𝗽𝘁 𝗺𝗲 𝗰𝗼𝗻𝗻𝗲𝗰𝘁𝗲𝗱 𝘁𝗼 𝗺𝘆 𝗰𝗿𝗲𝗮𝘁𝗶𝘃𝗲 𝘀𝗶𝗱𝗲. 𝗜 𝗮𝗺 𝗽𝗮𝘀𝘀𝗶𝗼𝗻𝗮𝘁𝗲 𝗮𝗯𝗼𝘂𝘁 𝗰𝗼𝗻𝘁𝗶𝗻𝘂𝗼𝘂𝘀 𝗹𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗮𝗻𝗱 𝗲𝘅𝗽𝗲𝗿𝗶𝗺𝗲𝗻𝘁𝗶𝗻𝗴 𝘄𝗶𝘁𝗵 𝗻𝗲𝘄 𝘁𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝗶𝗲𝘀 𝗮𝗻𝗱 𝘀𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗽𝗮𝗿𝗮𝗱𝗶𝗴𝗺𝘀. 𝗕𝗲𝗰𝗮𝘂𝘀𝗲 𝗼𝗳 𝗺𝘆 𝘀𝗼𝗹𝗶𝗱 𝗯𝗮𝗰𝗸𝗴𝗿𝗼𝘂𝗻𝗱 𝗶𝗻 𝗣𝘆𝘁𝗵𝗼𝗻, 𝗦𝗤𝗟, 𝗔𝗴𝗶𝗹𝗲 𝗺𝗲𝘁𝗵𝗼𝗱𝗼𝗹𝗼𝗴𝗶𝗲𝘀 𝗮𝗻𝗱 𝗛𝗮𝗱𝗼𝗼𝗽. 𝗜 𝘁𝗲𝗻𝗱 𝘁𝗼 𝘂𝗻𝗱𝗲𝗿𝘀𝘁𝗮𝗻𝗱 𝘁𝗵𝗲 𝗶𝗺𝗽𝗼𝗿𝘁𝗮𝗻𝗰𝗲 𝗼𝗳 𝗰𝗿𝗼𝘀𝘀-𝗱𝗶𝗺𝗲𝗻𝘀𝗶𝗼𝗻𝗮𝗹 𝗱𝗼𝗺𝗮𝗶𝗻𝘀 𝗮𝘀 𝗮 𝘁𝗲𝗰𝗵𝗻𝗶𝗰𝗮𝗹 𝗽𝗲𝗿𝘀𝗼𝗻, 𝗳𝗼𝗰𝘂𝘀𝗶𝗻𝗴 𝗼𝗻 𝗮 𝘀𝗼𝗹𝘂𝘁𝗶𝗼𝗻 𝗳𝗼𝗿 𝗮𝗻 𝗼𝗿𝗴𝗮𝗻𝗶𝘇𝗮𝘁𝗶𝗼𝗻. 𝗜 𝗮𝗺 𝗮 𝘁𝗲𝗮𝗺 𝗽𝗹𝗮𝘆𝗲𝗿 𝘄𝗵𝗼 𝘁𝗵𝗿𝗶𝘃𝗲𝘀 𝗶𝗻 𝗮 𝗽𝗿𝗼𝗮𝗰𝘁𝗶𝘃𝗲 𝗲𝗻𝘃𝗶𝗿𝗼𝗻𝗺𝗲𝗻𝘁 𝘄𝗶𝘁𝗵 𝗱𝗲𝗱𝗶𝗰𝗮𝘁𝗶𝗼𝗻 𝗮𝗻𝗱 𝘇𝗲𝗮𝗹 𝘁𝗼 𝗴𝗮𝗶𝗻 𝗮 𝘀𝗼𝗹𝗶𝗱 𝘂𝗻𝗱𝗲𝗿𝘀𝘁𝗮𝗻𝗱𝗶𝗻𝗴 𝗼𝗳 𝗮𝗻𝘀𝘄𝗲𝗿𝘀, 𝘄𝗵𝗶𝗰𝗵 𝘆𝗶𝗲𝗹𝗱𝘀 𝘁𝗵𝗲 𝗯𝗲𝘀𝘁 𝗿𝗲𝘀𝘂𝗹𝘁𝘀.
 
 𝗦𝗞𝗜𝗟𝗟𝗦:
@@ -67,3 +55,21 @@
     </embed>
 </object>
 
+
+<hr>
+<p align="center">
+  <i>Let's connect and chat! Open to anything under the sun.</i>
+
+  <p align="center"> 
+   <a href="https://www.linkedin.com/in/jaskaran-kohli24/" alt="Linkedin"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/linkedin-fill.svg"></a>
+    <a href="mailto:jaskaransinghkolhi@gmail.com.com" alt="Contact me"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/mail-fill.svg"></a>
+      </p>
+
+  <p align="center">
+    <a href="http://hits.dwyl.com/jayehernandez/jayehernandez">
+      <img align="center" src="http://hits.dwyl.com/jayehernandez/jayehernandez.svg">
+    </a>
+  </p>
+</p>
+
+<img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/dcd7447c179f5a1131590b6ccba2223e879ab655/readme/bottom.svg" alt="bottom">
