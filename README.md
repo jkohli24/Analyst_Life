@@ -1,4 +1,4 @@
-<h1 align="center" style="background-color:DodgerBlue;"" >Hi there, I'm Jaskaran </h1>
+<h1 align="center" style="background-color:DodgerBlue;"" >Jaskaran Singh Kohli</h1>
 
 <h1 align="center" >
  
