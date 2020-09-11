@@ -1,10 +1,9 @@
 <h1 align="left">  
            
-<img width=1050px src="https://user-images.githubusercontent.com/61367363/92863079-58ede200-f3b0-11ea-8110-a97b0ac1d77a.JPG"> 
+
 <img width=1050px src="https://user-images.githubusercontent.com/61367363/92864591-23e28f00-f3b2-11ea-9f65-deaca36ac224.gif">
 
-</h1>(https://user-images.githubusercontent.com/61367363/92863079-58ede200-f3b0-11ea-8110-a97b0ac1d77a.JPG)
-
+</h1>
 
 <h1 align="center">  
  
