@@ -1,7 +1,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Jaskaran%20Singh%20Kohli&fontSize=70&fontAlignY=40 )
 
- <img width="500px",Padding: 50px src="https://user-images.githubusercontent.com/61367363/92796525-1c959400-f366-11ea-936d-bba8a576fa21.jpeg"> 
+ <img width="500px"src="https://user-images.githubusercontent.com/61367363/92796525-1c959400-f366-11ea-936d-bba8a576fa21.jpeg"> 
 
 
 [![Jaskarans's github stats](https://github-readme-stats.vercel.app/api?username=jkohli24&show_icons=true&theme=synthwave)]
