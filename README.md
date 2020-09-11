@@ -1,15 +1,6 @@
-<a id="rect">
-![rect](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=Jaskaran%20Singh%20Kohli&fontAlign=30&fontSize=30)
-<a id="wave">
-![wave](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&)
-
-<h1 align="center" style="background-color:DodgerBlue;"" >Jaskaran Singh Kohli</h1>
-                                                        
-<h1 align="center" >
- 
-<img width="500px" src="https://user-images.githubusercontent.com/61367363/92796525-1c959400-f366-11ea-936d-bba8a576fa21.jpeg">
-  <br>
-  
+![rect](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=%20%20%20%20%20%20Jaskaran%20Singh%20Kohli&fontAlign=30&fontSize=30&section=header)
+ <h1 align="center" >
+ <img width="500px" src="https://user-images.githubusercontent.com/61367363/92796525-1c959400-f366-11ea-936d-bba8a576fa21.jpeg"> 
 </h1>
 
 ![Jaskarans's github stats](https://github-readme-stats.vercel.app/api?username=jkohli24&show_icons=true&theme=synthwave)
