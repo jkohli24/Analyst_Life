@@ -1,6 +1,3 @@
-## Rect <a id="rect">
-![rect](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=Jaskaran%20Singh%20Kohli&fontAlign=30&fontSize=30)
-
 
 <h1 align="center" style="background-color:DodgerBlue;"" >Jaskaran Singh Kohli</h1>
                                                         
