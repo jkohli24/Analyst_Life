@@ -1,9 +1,19 @@
+<h1 align="left">  
+           
+<img width=1050px src="https://user-images.githubusercontent.com/61367363/92863079-58ede200-f3b0-11ea-8110-a97b0ac1d77a.JPG"> 
+<img width=1050px src="https://user-images.githubusercontent.com/61367363/92864591-23e28f00-f3b2-11ea-9f65-deaca36ac224.gif">
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Jaskaran%20Singh%20Kohli&fontSize=70&fontAlignY=40 )
-
- <img width="500px"src="https://user-images.githubusercontent.com/61367363/92796525-1c959400-f366-11ea-936d-bba8a576fa21.jpeg"> 
+</h1>(https://user-images.githubusercontent.com/61367363/92863079-58ede200-f3b0-11ea-8110-a97b0ac1d77a.JPG)
 
 
+<h1 align="center">  
+ 
+
+           
+<img width=550px src="https://user-images.githubusercontent.com/61367363/92796525-1c959400-f366-11ea-936d-bba8a576fa21.jpeg"> 
+
+</h1>
+                                                                                                                              
 [![Jaskarans's github stats](https://github-readme-stats.vercel.app/api?username=jkohli24&show_icons=true&theme=synthwave)]
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jkohli24&hide=CSS,HTML&show_icons=true&theme=synthwave)](https://github.com/jkohli24/github-readme-stats)
