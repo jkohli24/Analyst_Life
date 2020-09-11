@@ -1,5 +1,6 @@
-![rect](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=%20%20%20%20%20%20Jaskaran%20Singh%20Kohli&fontAlign=30&fontSize=30&section=header)
- <h1 align="center" >
+
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Jaskaran%20Singh%20Kohli&fontSize=70&fontAlignY=40 )
+<h1 align="center" >
  <img width="500px" src="https://user-images.githubusercontent.com/61367363/92796525-1c959400-f366-11ea-936d-bba8a576fa21.jpeg"> 
 </h1>
 
