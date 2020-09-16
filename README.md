@@ -5,7 +5,7 @@
 <h1 align="center">  
  
            
-<img width=550px src="https://user-images.githubusercontent.com/61367363/92796525-1c959400-f366-11ea-936d-bba8a576fa21.jpeg"> 
+
 <img width=550px src="https://github-readme-stats.vercel.app/api?username=jkohli24&show_icons=true&theme=synthwave">
 </h1>                                                                                                                           
 
