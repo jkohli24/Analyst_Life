@@ -44,7 +44,7 @@
 
 
 
-![Jaskaran Singh Kohli _ Resume  7-31-2020-page-001](https://user-images.githubusercontent.com/61367363/89580415-1dc52580-d7ea-11ea-89ab-3678415eebd4.jpg)
+![Jaskaran Singh Kohli _ Resume  7-31-2020-page-001](https://user-images.githubusercontent.com/61367363/96036642-9c0cfc00-0e19-11eb-9cba-fd796f3ea6c6.jpg)
 
 
 
